@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    border:0; 
+}
+#Identity1{
+    color:red;
+}
+.heading{
+    color: green;
+}
+ol{
+    list-style-type: none;
+    background-color: red;
+}
+ol li{
+    /*float:left;*/
+    display:inline-block;
+    padding:20px;
+}
+#g1{
+    background-color: green;
+    margin: 20px;
+    border: 2px solid purple;
+}
+#g1:hover{
+    background-color: blue;
+}
